@@ -9,4 +9,6 @@
     <string name="web_label">web</string>
     <string name="address_label">address</string>
     <string name="about_us_label">About Us</string>
+    <string name="header_picture_content_description">This is the center picture in the app to showcase a traveling site to Japan.</string>
+    <string name="logo_picture_content_description">This is the Japan2You logo that represents the company name.</string>
 </resources>

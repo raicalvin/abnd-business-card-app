@@ -54,7 +54,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:fontFamily="roboto_bold"
-                android:text="Japan2You Travel"
+                android:text="@string/company_name"
                 android:textColor="#E70C3F"
                 android:textSize="24sp" />
 
@@ -63,7 +63,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
                 android:fontFamily="roboto_bold"
-                android:text="(954) 123-4567"
+                android:text="@string/phone_number"
                 android:textColor="#08060B"
                 android:textSize="20sp" />
 
@@ -71,7 +71,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/roboto_bold"
-                android:text="phone"
+                android:text="@string/phone_label"
                 android:textColor="#E70C3F"
                 android:textSize="12sp" />
 
@@ -80,7 +80,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
                 android:fontFamily="roboto_bold"
-                android:text="www.japan2youtravel.net"
+                android:text="@string/website"
                 android:textColor="#08060B"
                 android:textSize="20sp" />
 
@@ -88,7 +88,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/roboto_bold"
-                android:text="web"
+                android:text="@string/web_label"
                 android:textColor="#E70C3F"
                 android:textSize="12sp" />
 
@@ -105,7 +105,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/roboto_bold"
-                android:text="address"
+                android:text="@string/address_label"
                 android:textColor="#E70C3F"
                 android:textSize="12sp" />
 
@@ -114,7 +114,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
                 android:fontFamily="roboto_bold"
-                android:text="About Us"
+                android:text="@string/about_us_label"
                 android:textColor="#E70C3F"
                 android:textSize="24sp" />
 

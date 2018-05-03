@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Japan 2 You</string>
     <string name="description">Japan2You is a Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi convallis dignissim molestie. Proin eros augue, viverra nec auctor ac, dictum nec lectus. Nullam mattis dolor neque, sit amet tempor massa luctus at. Duis nec orci pulvinar odio dapibus euismod. Nam aliquam tincidunt nisi quis consectetur. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent non odio in nisl accumsan aliquet. Vestibulum pellentesque finibus vestibulum.</string>
+    <string name="address">"1234 Okinawa Way\nLos Angeles, MA 98765"</string>
 </resources>

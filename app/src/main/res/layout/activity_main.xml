@@ -97,7 +97,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
                 android:fontFamily="roboto_bold"
-                android:text="1234 Okinawa Way\nLos Angeles, MA 98765"
+                android:text="@string/address"
                 android:textColor="#08060B"
                 android:textSize="20sp" />
 

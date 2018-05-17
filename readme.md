@@ -20,7 +20,7 @@ The motivation for the project was inspired by my recent trip to Japan. I wanted
 
 The UI implements an ImageView at the top, a company logo, and a scrollable field showcasing the company information. A red, black, and white color scheme was chosen for the overall design.
 
-![](http://placekitten.com/300/200) ![](http://placekitten.com/300/200)
+![](https://github.com/raicalvin/pictures/blob/master/pix-abnd-p1-business-card-app/pic1.png) ![](https://github.com/raicalvin/pictures/blob/master/pix-abnd-p1-business-card-app/pic2.png) ![](https://github.com/raicalvin/pictures/blob/master/pix-abnd-p1-business-card-app/pic3.png)
 
 ## Issues
 
